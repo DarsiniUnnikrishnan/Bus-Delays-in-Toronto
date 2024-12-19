@@ -54,6 +54,5 @@ Below are the key questions answered, with visualizations created in **Tableau**
 
 ---
 
-## 📁 Repository Structure
 
 
