@@ -55,4 +55,10 @@ Below are the key questions answered, with visualizations created in **Tableau**
 ---
 
 
+## 📜 Full Report
+For detailed analysis, visualizations, and dashboards, please refer to the complete project report:  
+
+
+
+
 
