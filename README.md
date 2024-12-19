@@ -56,7 +56,8 @@ Below are the key questions answered, with visualizations created in **Tableau**
 
 
 ## 📜 Full Report
-For detailed analysis, visualizations, and dashboards, please refer to the complete project report:  
+For detailed analysis, visualizations, and dashboards, please refer to the complete project report: 
+https://github.com/DarsiniUnnikrishnan/Bus-Delays-in-Toronto/commit/d4814d83807335cb55a1d6df95834d3ece9ce8a0
 
 
 
